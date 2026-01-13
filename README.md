@@ -76,7 +76,12 @@ Where:
 
 1. Install required packages:
 ```bash
-pip install numpy matplotlib scipy
+pip install -r requirements.txt
+```
+
+Or install manually:
+```bash
+pip install numpy matplotlib scipy jupyter
 ```
 
 2. Launch Jupyter:
